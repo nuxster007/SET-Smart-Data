@@ -1,0 +1,14 @@
+cryptography
+cx_Oracle
+elasticsearch
+lxml
+pandas
+paramiko
+psycopg2
+pymysql
+readme-md
+requests
+selenium
+uuid
+urllib3
+webdriver_manager
