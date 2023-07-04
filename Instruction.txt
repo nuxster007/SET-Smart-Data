@@ -1,0 +1,10 @@
+No      File                            Purpose
+1       SETSmart.py                     Run to get financial data from SETSMART, download to excel files (balance sheet, income statement, cashflow)
+2       checkDone.py                    Run to check which stock symbol already complete from SETSmart.py script
+3       GetAllCompanySymbol.py          Run to get all company symbol from SET web
+4       FinancialStatement.py           Run to load excel (from SETSMART) to dataframe
+5       FinancialSummary                Run to get key financial summary from SET web
+6       MajorShareHolders               Run to get major share holders list from SET web
+
+        pass_card.py                    Login to user/pass interface
+        rahas.py                        Provide rahas for login
